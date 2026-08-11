@@ -22,15 +22,6 @@ I turn ideas into working products using AI-assisted development. I build for we
 
 `React` · `TypeScript` · `Kotlin` · `Swift` · `Python`
 
-### Selected projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [yo.route](https://github.com/s1lph/yo-rote) | Delivery automation, route optimization, and real-time courier management | Python · Flask · SQL · Leaflet |
-| [Karas](https://github.com/s1lph/KarasPublic) | Secure messenger with end-to-end encrypted private chats | Kotlin · Swift |
-| [AI Pack](https://github.com/s1lph/s1lph-s-AI-pack) | My reusable AI settings and development setup | Python · AI tooling |
-| [Portfolio](https://github.com/s1lph/s1lph-s-site) | Personal website and project showcase | React · TypeScript |
-
 ### GitHub activity
 
 <p>
